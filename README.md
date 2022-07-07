@@ -1,2 +1,2 @@
-# Seoul_National_University
-Dispatched to SNU as an AI Master
+# SNU
+Dispatched to Seoul National University as an AI Master
