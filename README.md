@@ -1,2 +1,2 @@
 # SNU
-Dispatched to Seoul National University as an AI Master
+Seoul National University as an AI Master
